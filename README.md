@@ -1,16 +1,16 @@
 # vue-taobao
 
-## Project setup
+## 安装项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地开发预览
 ```
-npm run serve
+npm run dev
 ```
 
-### Compiles and minifies for production
+### 打包部署
 ```
 npm run build
 ```
